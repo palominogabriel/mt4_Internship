@@ -17,7 +17,7 @@ Php code created for the MT4 internship skill test.
 https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04 
 
 - Biblioteca ssh2 php7.0
-[Acesso 22/01/2017]
+ [Acesso 22/01/2017]
 http://php.net/manual/en/ssh2.installation.php
 Obs.: Alguns dos links está quebrado, segue link com os arquivos utilizados e direcionamento corrigido:
 [library libssh2](https://libssh2.org/)
@@ -37,9 +37,9 @@ index.php:
 
 ## Imagens:
 
-[!alt tag](https://github.com/palominogabriel/mt4_Internship/blob/master/images/Internship_encrypt.png)
-[!alt tag](https://github.com/palominogabriel/mt4_Internship/blob/master/images/Internship_decrypt.png)
-[!alt tag](https://github.com/palominogabriel/mt4_Internship/blob/master/images/Internship_ssh.png)
+![alt tag](https://github.com/palominogabriel/mt4_Internship/blob/master/images/Internship_encrypt.png)
+![alt tag](https://github.com/palominogabriel/mt4_Internship/blob/master/images/Internship_decrypt.png)
+![alt tag](https://github.com/palominogabriel/mt4_Internship/blob/master/images/Internship_ssh.png)
 
 ## Referências:
 
